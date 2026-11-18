@@ -6,3 +6,6 @@ project:
 repositories: []
 review:
   storage: git
+  provider: github
+  host: github.com
+  remote: manju23reddy/nrova-flow-ux-review
