@@ -1,0 +1,54 @@
+schema_version: 1
+id: MK-001
+review_id: PP-000001
+thread_id: TH-001
+status: pending
+created_at: '2026-11-20T07:38:45.609834Z'
+agent: claude-code
+on_behalf_of: local
+rationale: 'Home and Project labels now sit centred in the tab bar with space above,
+  below and at the sides, instead of touching the top line.
+
+  Each tab has an icon: a house for Home, a folder for Project (blue when selected).
+
+  The tab bar itself was not found in this source copy.'
+image_file: reviews/PP-000001/mockups/MK-001.png
+html_file: reviews/PP-000001/mockups/MK-001.html
+width: 2902
+height: 1862
+base_state_index: 1
+replaces: null
+decision: null
+run:
+  started_at: '2026-11-20T07:36:59.200157Z'
+  duration_seconds: 106.4
+  base_commit: 6f9c788e491e5238b710df5b9bbd9246a56f995e
+  asked_by: local
+  isolation: none
+  metrics:
+    context_bytes: 66796
+    context_parts:
+      knowledge: 66827
+      thread: 649
+      source_revision: 42
+      screenshot_path: 40
+      screenshot_viewport: 28
+      review_id: 11
+      schema_version: 1
+    screenshot_bytes: 349074
+    mockup_bytes: 0
+    task_bytes: 2029
+    tools_offered: true
+    diff_bytes: 0
+    files_changed: 0
+    brief_given: false
+    memory_given: 0
+    tool_calls: 1
+    map_calls: 0
+    memory_kept: 0
+    memory_dropped: 0
+    memory_run: null
+    design_given: null
+    design_layers: 0
+    design_differences: null
+  paid_with: sign_in

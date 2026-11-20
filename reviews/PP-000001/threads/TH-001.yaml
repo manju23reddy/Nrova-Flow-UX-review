@@ -1,0 +1,28 @@
+schema_version: 1
+id: TH-001
+review_id: PP-000001
+status: open
+title: The label text is hug to tab line
+created_at: '2026-11-20T07:35:05.097141Z'
+anchor:
+  state_index: 1
+  viewport_width: 2902
+  viewport_height: 1862
+  nodes: []
+  region:
+    x: 571.0
+    y: 59.0
+    width: 620.0
+    height: 189.0
+  url: "image:Screenshot 2026-11-20 at 2.33.16\u202FAM.png"
+  screen: null
+comments:
+- id: C-001
+  author: Manjunath Kodanda Reddy
+  created_at: '2026-11-20T07:35:05.097141Z'
+  body: add some padding and make it look nice, and also add home and project icon.
+  mentions: []
+  delivery: sent
+  error: null
+last_comment: 1
+design_regions: []
