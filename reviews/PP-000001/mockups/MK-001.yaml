@@ -2,7 +2,7 @@ schema_version: 1
 id: MK-001
 review_id: PP-000001
 thread_id: TH-001
-status: pending
+status: approved
 created_at: '2026-11-20T07:38:45.609834Z'
 agent: claude-code
 on_behalf_of: local
@@ -18,7 +18,11 @@ width: 2902
 height: 1862
 base_state_index: 1
 replaces: null
-decision: null
+decision:
+  outcome: approved
+  by: Manjunath Kodanda Reddy
+  at: '2026-11-20T07:39:16.194028Z'
+  note: null
 run:
   started_at: '2026-11-20T07:36:59.200157Z'
   duration_seconds: 106.4
