@@ -4,5 +4,13 @@ title: Tab Labels are hug to top border
 status: open
 created_by: local
 created_at: '2026-11-20T07:33:51.985608Z'
-updated_at: '2026-11-20T07:33:51.985608Z'
+updated_at: '2026-11-20T07:38:50.635674Z'
 base_commit: 7a49ea45ae4ebf697a772de75362a610dba52aca
+pull_request:
+  host: github.com
+  repo: manju23reddy/nrova-flow-ux-review
+  number: 1
+  url: https://github.com/manju23reddy/nrova-flow-ux-review/pull/1
+  branch: review/PP-000001
+  base: main
+  opened_at: '2026-11-20T07:38:50.634470Z'
