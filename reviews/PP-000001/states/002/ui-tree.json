@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "root": {
+    "id": "image",
+    "type": "Image",
+    "name": "Screenshot 2026-11-22 at 1.06.48 AM.png",
+    "text": null,
+    "bounds": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2342.0,
+      "height": 1724.0
+    },
+    "children": [],
+    "attributes": {},
+    "accessibility": {},
+    "runtime": {},
+    "source_mapping": null
+  }
+}
