@@ -1,0 +1,8 @@
+schema_version: 1
+id: PP-000002
+title: Buttons and Labels are hug
+status: open
+created_by: local
+created_at: '2026-11-22T06:08:57.076090Z'
+updated_at: '2026-11-22T06:08:57.076090Z'
+base_commit: 88a064051f8f1bf7d8e8ef5ff656cd643d969927
