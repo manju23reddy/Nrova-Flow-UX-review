@@ -4,5 +4,13 @@ title: Buttons and Labels are hug
 status: open
 created_by: local
 created_at: '2026-11-22T06:08:57.076090Z'
-updated_at: '2026-11-22T06:08:57.076090Z'
+updated_at: '2026-11-23T02:53:15.228681Z'
 base_commit: 88a064051f8f1bf7d8e8ef5ff656cd643d969927
+pull_request:
+  host: github.com
+  repo: manju23reddy/nrova-flow-ux-review
+  number: 2
+  url: https://github.com/manju23reddy/nrova-flow-ux-review/pull/2
+  branch: review/PP-000002
+  base: main
+  opened_at: '2026-11-23T02:53:15.226478Z'
