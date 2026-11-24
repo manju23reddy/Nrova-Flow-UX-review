@@ -1,10 +1,10 @@
 schema_version: 1
 id: PP-000001
 title: Tab Labels are hug to top border
-status: open
+status: closed
 created_by: local
 created_at: '2026-11-20T07:33:51.985608Z'
-updated_at: '2026-11-20T07:38:50.635674Z'
+updated_at: '2026-11-24T03:44:26.079668Z'
 base_commit: 7a49ea45ae4ebf697a772de75362a610dba52aca
 pull_request:
   host: github.com

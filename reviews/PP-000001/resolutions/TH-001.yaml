@@ -1,0 +1,10 @@
+schema_version: 1
+review_id: PP-000001
+thread_id: TH-001
+events:
+- id: 9527932f-b90d-41-out_of_date
+  kind: resolved
+  reason: out_of_date
+  note: null
+  by: local
+  at: '2026-11-24T03:44:26.002988Z'
